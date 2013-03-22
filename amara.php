@@ -1,7 +1,7 @@
 <?php
 /*
         Plugin Name: Amara
-        Description: Embed-Amara subtitled videos.
+        Description: Embed Amara-subtitled videos.
         Version: 0.1
         Author: Charles Fulton
         License: GPL2
